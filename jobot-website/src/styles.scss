@@ -1,0 +1,136 @@
+/* Base styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+button {
+    cursor: pointer;
+}
+
+header, main, footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo {
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    nav {
+        a {
+            margin: 0 10px;
+            padding: 5px 10px;
+            &:hover {
+                background-color: #ddd;
+                border-radius: 4px;
+            }
+        }
+
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            &:hover {
+                background-color: #0056b3;
+            }
+        }
+    }
+}
+
+/* Main - Landing Page */
+.banner {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+
+    h1 {
+        margin-left: 20px;
+        font-size: 28px;
+    }
+}
+
+.upload {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    input[type="file"] {
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+
+    button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+}
+
+/* Main - Result Page */
+.original-cv, .optimized-cv, .interview-prep {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+
+    h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        margin-top: 20px;
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+
+    a {
+        margin: 0 10px;
+        color: #fff;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

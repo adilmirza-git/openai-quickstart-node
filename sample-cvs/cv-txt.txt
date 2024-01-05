@@ -1,0 +1,127 @@
+MUHAMMAD ADIL MIRZA
+Delivery Director | Digital Transformation | Corporate Banking Products Engineering
+TOGAF Certified Enterprise Architect, Scrum Master, Project Management Professional
+
+adilmirza@hotmail.co.uk 
+
++971-50-2339430 / + 971-4-2425343
+KEY HIGHLIGHTS
+	Currently working for one of the largest software engineering companies in the world – EPAM Systems as Digital Transformation Delivery Manager – Responsible for both pre-sales and post-sales Agile delivery.
+	Technology Practitioner with 17+ years of experience - Specialized in creating Digital Implementation Roadmaps/Operating Models and managing end-to-end product delivery based on Agile, MACH blueprint (Microservices-based, API First, Cloud-native, Headless), and DevSecOps.
+	Have good experience working in a Start-Up culture. 
+	Managed program workstreams with cross-functional teams of 40+ People – Scrum Masters, BA, PO, and Engineers.
+	Have played a major role in delivering the Digital Corporate Platform for an upcoming Neobank of UAE – Zand Bank
+	Over 15+ years of experience working with the major banks in UAE – Have successfully implemented major initiatives across various banking domains.  
+•	Global Transaction Banking Solutions: Digital Corporate Onboarding, Digital Cash Management, Trade Finance Solutions, Supply Chain Finance, Corporate Products Billing and Pricing Systems
+•	Regulatory and Payment Systems: - UAE Fund Transfer System, Wages Protection System, Direct Debit System, Image Cheque Clearing System
+•	Compliance Systems: SafeWatch, IMTF – Enterprise Fraud Prevention System
+•	Human Resources Solutions: Recruitment and Employees HR
+•	Core Banking and Lending Solutions: Intellect
+CORE COMPETENCIES
+•	Digital Transformation Strategy
+•	Solutions Delivery
+•	Project Management
+•	Banking Systems Knowledge 
+•	Driving Agile Teams
+•	Systems Integrations	•	Managing Software Development
+•	Enterprise Architecture
+•	Solution Architecture
+•	Change Management
+•	DevSecOps
+•	Infrastructure
+WORK EXPERIENCE
+
+EPAM Systems									    Jan 2022 – At Present
+Delivery Manager – Digital Transformation – MENA
+	Participating in pre-sales activities – mainly preparing RFP and client presentations
+	Preparing Transformation Roadmap and Target Operating Models
+	Managing end-to-end delivery as per the set Operating Models
+	Managing Agile cross-functional Team consisting of Product Owner, Business Analyst, Scrum Master, and Engineers.
+	Managing Risks and Impediments across the value stream and creating efficiencies
+	Agile Coach
+
+
+ 
+Aion Digital – FinTech Start-Up                                                                                May 2019 – Jan 2022
+Head of Corporate Products Delivery
+	Zand Bank Ecosystem Applications and Integrations Architecture 
+	Digital Corporate Platform Delivery Lead – Digital Corporate Onboarding, Payments and Cash Management Services
+	Part of the Product Engineering team and a Software Development Manager – Responsible for building a Corporate Banking Product that is based on Micro Services Architecture. 
+	Scrum Master to a team up to 15 Developers (Remote Teams), 4 Testers, 2 Business Analyst for building Corporate Web and Mobile Digital Platform, Corporate Digital Onboarding, Payments and Cash Management Platform 
+	Azure DevSecOps, Dockers and Test Automation 
+	Technology Lead for the below Projects:
+	Zand Bank (Neobank) – Digital Corporate Onboarding and Cash Management Portal
+	Kuwait Finance House (Bahrain) – Digital Corporate Onboarding 
+	Kuwait Finance House (Kuwait) – Digital Corporate Onboarding and Cash Management Portal
+
+Abu Dhabi Islamic Bank                                                                                        May 2017 – May 2019
+Technical Manager – Global Transaction Banking Solutions Delivery
+	Played a crucial part in implementing a major strategic GTB transformation program (LEAP). 
+	Delivery Lead for the end to end implementation of Trade Finance Solution – China Systems Eximbills
+	Scrum Master to a team of developers (Vendors, ESB), testers, systems engineers (Network and Infra), business analysts and product owners.
+	Led the overall integrations, solution architecture and infrastructure design.
+	Testing Strategy and Management
+	Project planning, project financials, managing risks, preparing C-Level project status reports.
+	Led the compliance to audit, SDLC, PCI DSS, Data Security, and EA requirements
+	Hands-on experience in setting up environments using IBM HTTP Server, IBM WAS, Application Deployments in Linux, IBM Message Broker development, MQ Integration
+
+First Abu Dhabi Bank                                  						Nov 2005 – May 2017
+Senior Technical Analyst – Wholesale Banking
+	Technical lead for delivering various Global Transaction Banking Solutions
+	Involved in preparing project plans and managing project financials 
+	Solution Architecture
+	Maintaining software systems environments – Windows, Linux
+	Managing vendors and multiple IT stakeholders
+	Software development and Systems Integrations - .NET, JAVA, PL/SQL, T-SQL, IBM MQ and MB 8
+	Coordinate overall testing – SIT, QA, UAT, Performance, Penetration and Security Tests, DR
+	Lead the compliance to audit, SDLC, PCI DSS, Data Security, and Enterprise Architecture requirements
+FUNCTIONAL DOMAIN KNOWLEDGE
+	Digital Corporate Onboarding, Trade Finance, Cash Management, Supply Chain Finance, Anti Money Laundering System, Payments Systems - RTGS, ACH, IPI, DDS, WPS, Cards, SWIFT, Retail Banking, Core Banking, Open Banking and Blockchain
+TECH STACK KNOW-HOW
+	.NET Core, Angular, Node JS, Docker, Selenium, REST, SOAP, JIRA, Postman, Newman, ASP.NET MVVC, IBM MQ, IBM WAS, Microsoft IIS, Oracle, MS SQL, Sybase, Visual Studio, MS Project, MS Visio, Crystal Reports, OOP - .NET and JAVA, Linux Shell Scripting, T-SQL, PL/SQL, MS Azure, Micro Services Architecture, DevOps, Kafka, Test Automation with Selenium, Fico Blaze Advisor
+ 
+SOFT SKILLS
+•	Calm Under Pressure
+•	Strategic Thinking
+•	Decision Making
+•	Leadership Skills	•	Problem Solving
+•	Motivating Skills
+•	Conflict Resolution
+•	Presentation Skills 
+
+ACADEMIC QUALIFICATIONS
+	Master of Management in International Business, The University of Melbourne – Australia, May 2009
+	Bachelor of Science (Honors) Business IT, The University of Greenwich – UK, Jul 2005
+CERTIFICATIONS
+	Certified Scrum Master – Scrum Alliance
+	Project Management Professional (PMP) – Project Management Institute
+	Certificate in International Trade Finance – London Institute of Banking and Finance
+	Microsoft Certified Technology Specialist (Web Apps 2.0) - Microsoft
+	Certified Blockchain Expert – Blockchain Council
+	TOGAF Certified Enterprise Architect
+OVERALL PROJECTS SNAPSHOT
+	Name	Tech Stack
+		Corporate Digital Platform – Aion Digital	Node JS, C#.NET, Angular 8, REST, MS SQL, Azure DevOps, Docker, Selenium
+		EximBills Enterprise - China Systems	J2EE, IBM WAS, Linux Red Hat, Oracle
+		Customer Enterprise – Trade Portal – China Systems	J2EE, IBM WAS, Linux Red Hat, Oracle
+		Intellect Cash Management Portal (CBX) – Intellect	J2EE, IBM WAS, Linux Red Hat, Oracle
+		Billing and Pricing System – Zafin	J2EE, IBM WAS, Linux Red Hat, Oracle
+		FinShare Supply Chain Finance - Premium Tech	J2EE, IBM WAS, Linux Red Hat, Oracle
+		EximBills V4 STP – China Systems	Windows Thick Client, MS SQL
+		TIPlus and MTP – Misys	J2EE, WAS, Linux Red Hat
+		SAS AML Transaction Monitoring	J2EE, REST
+		FICO Blaze Advisor – Customer Risk Profiling	J2EE, REST
+		UAE Fund Transfer System 3.0 – In-house 	.NET – SilverLight 4, MS SQL 
+		NAFURA Corporate Portal – In-house	C# .NET, Sybase
+		Post – Dated Cheques System – In-house	C# .NET, MS SQL
+		Wages Protection System – In-house	C# .NET, MS SQL
+		Intellect Reports and Extraction Services – In-house	Crystal Reports, MS SQL, VB.NET
+TRAININGS
+	IBM WebSphere Message Broker Toolkit V8.0, server administration and application hosting 
+	Leadership Journey, Change Management, Time Management, Emotional Intelligence
+AWARDS AND ACHIEVEMENT
+	Top graduate for the EPAM systems - Engineering Excellence (EngX) program - Scored 93% (2022).
+	Awarded with the BRAVO Award by General Chief Information Officer for overall contribution (2016).
+	Awarded with the Certificate of Excellence by Global Transaction Banking (2016).
+	Awarded with the Trophy for outstanding contribution and support to Cash Product Management (2016).
+________________________________________

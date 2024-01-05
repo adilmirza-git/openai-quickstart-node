@@ -1,0 +1,52 @@
+<header class="header">
+    <div class="container">
+        <div class="logo">
+            <img src="assets/images/jobot-logo.png" alt="Jobot Logo">
+        </div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">How It Works</a>
+            <a href="#">Testimonials</a>
+            <a href="#">Contact Us</a>
+            <button>Login/Sign Up</button>
+        </nav>
+    </div>
+</header>
+
+<main class="container">
+    <section class="banner">
+        <img src="assets/images/path_to_happy_seeker.jpg" alt="Happy Job Seeker">
+        <div class="content">
+            <h1>Perfect Your CV and Ace Your Interview with Jobot!!!</h1>
+        </div>
+    </section>
+    <section class="upload">
+
+       
+    
+        <input type="file" id="fileInput" placeholder="Upload your CV">
+
+        <textarea placeholder="Enter job description"></textarea>
+
+        <div *ngIf="isLoading" class="progress-bar"></div>
+
+        <button (click)="optimizeCV()">Generate</button>
+        
+        
+        
+    </section>
+    <div *ngIf="optimizationResult">
+        <h3>Optimization Results:</h3>
+        <textarea readonly class="result-textarea">
+          {{ optimizationResult }}
+        </textarea>
+      </div>
+</main>
+
+<footer class="footer">
+    <div class="container">
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms of Service</a>
+        <!-- Add social media icons here -->
+    </div>
+</footer>
